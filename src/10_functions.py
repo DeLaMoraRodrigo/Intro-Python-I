@@ -2,6 +2,7 @@
 
 # YOUR CODE HERE
 def is_even():
+    global num
     if num % 2 == 0:
         return True
 
